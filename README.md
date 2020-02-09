@@ -1,5 +1,5 @@
 # qt-macos-wiki
 
-This is a WIKI only repo.
+This is a Wiki only repo.
 
-Go to [wiki](wiki)
+Go to [Wiki](wiki)
