@@ -2,4 +2,4 @@
 
 This is a Wiki only repo.
 
-Go to [Wiki](wiki)
+Go to [Wiki](/stephenquan/qt-macos-wiki/wiki).
