@@ -1,4 +1,4 @@
-# dev-macos-qt
+# qt-macos-wiki
 
 This is a WIKI only repo.
 
